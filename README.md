@@ -1,42 +1,39 @@
 # 🌸 Discord Bot Template
 
-A professional, reusable Discord.js bot foundation built by **The Server Boutique**.
+<div align="center">
+
+A professional, reusable **Discord.js** bot foundation built by **The Server Boutique**.
+
+Designed for clean code, scalability, and modern Discord development.
+
+</div>
 
 ---
 
-## ✨ Overview
+## ✨ Features
 
-This template provides a clean starting point for building modern Discord bots using Discord.js.
-
-It is designed with scalability, readability and maintainability in mind, making it suitable for both personal projects and production-ready bots.
-
----
-
-## 🚀 Features
-
-- Slash Commands
-- Event Handler
-- Command Handler
-- Environment Variables
-- Error Handling
-- Modular File Structure
-- Easy Configuration
-- Beginner Friendly
-- Production Ready
+- ⚡ Slash Commands
+- 📂 Modular File Structure
+- 🎫 Event Handler
+- 🛠 Command Handler
+- 🔒 Environment Variables
+- ⚙️ Easy Configuration
+- 🚀 Production Ready
+- 📚 Well Documented
 
 ---
 
-## 📁 Planned Structure
+## 📁 Project Structure
 
 ```text
-discord-bot-template
+discord-bot-template/
 │
-├── src
-│   ├── commands
-│   ├── events
-│   ├── handlers
-│   ├── config
-│   ├── utils
+├── src/
+│   ├── commands/
+│   ├── events/
+│   ├── handlers/
+│   ├── config/
+│   ├── utils/
 │   └── index.js
 │
 ├── .env.example
@@ -47,7 +44,7 @@ discord-bot-template
 
 ---
 
-## 🛠 Technologies
+## 🛠 Built With
 
 - JavaScript
 - Node.js
@@ -57,31 +54,37 @@ discord-bot-template
 
 ---
 
-## 📌 Status
+## 🚧 Project Status
 
-🟢 Currently in active development.
+🟢 Active Development
 
-New features and improvements will continue to be added over time.
+This repository is being expanded into a complete production-ready Discord.js starter template.
 
 ---
 
 ## 🌸 About The Server Boutique
 
-The Server Boutique creates custom Discord solutions for businesses, creators, gaming communities and online organisations.
+The Server Boutique specialises in creating premium Discord communities.
 
-Services include:
+### Services
 
-- Discord Bot Development
-- Server Design
-- Community Automation
-- Staff Systems
-- Verification
-- Moderation
-- Ticket Systems
-- Branding & Embeds
+- 🤖 Discord Bot Development
+- 🏡 Server Design & Setup
+- 🎫 Ticket Systems
+- 🛡 Verification Systems
+- 📋 Staff Applications
+- ⚙ Community Automation
+- 🎨 Branding & Embeds
+- 📚 Community Documentation
 
 ---
 
-## 📄 Licence
+## 🤝 Contributing
 
-Released under the MIT Licence.
+Suggestions and improvements are always welcome.
+
+---
+
+## 📄 License
+
+Released under the MIT License.
