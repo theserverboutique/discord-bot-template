@@ -1,0 +1,30 @@
+{
+  "name": "@theserverboutique/discord-bot-template",
+  "version": "1.0.0",
+  "description": "A clean, scalable Discord.js starter template by The Server Boutique.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node tests/run-tests.js"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "discord-bot",
+    "discord-template",
+    "javascript",
+    "nodejs",
+    "starter-template"
+  ],
+  "author": "The Server Boutique",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2"
+  }
+}
