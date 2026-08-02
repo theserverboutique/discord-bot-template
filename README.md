@@ -1,90 +1,94 @@
-# 🌸 Discord Bot Template
+# 🤖 Discord Bot Template
 
-<div align="center">
+A clean, scalable Discord.js starter template created by **The Server Boutique**.
 
-A professional, reusable **Discord.js** bot foundation built by **The Server Boutique**.
-
-Designed for clean code, scalability, and modern Discord development.
-
-</div>
+Designed for developers looking to build modern Discord bots using a modular and maintainable architecture.
 
 ---
 
 ## ✨ Features
 
-- ⚡ Slash Commands
-- 📂 Modular File Structure
-- 🎫 Event Handler
-- 🛠 Command Handler
-- 🔒 Environment Variables
-- ⚙️ Easy Configuration
-- 🚀 Production Ready
-- 📚 Well Documented
+- Discord.js v14
+- Organised folder structure
+- Slash command ready
+- Event-driven architecture
+- Environment variable support
+- Easy to customise
+- MIT Licensed
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```text
-discord-bot-template/
+discord-bot-template
 │
-├── src/
-│   ├── commands/
-│   ├── events/
-│   ├── handlers/
-│   ├── config/
-│   ├── utils/
+├── src
+│   ├── commands
+│   ├── config
+│   ├── events
+│   ├── handlers
+│   ├── utils
 │   └── index.js
 │
-├── .env.example
 ├── package.json
-├── README.md
-└── LICENSE
+├── .env.example
+├── LICENSE
+└── README.md
 ```
 
 ---
 
-## 🛠 Built With
+## 🚀 Installation
 
-- JavaScript
-- Node.js
-- Discord.js
-- Git
-- GitHub
+Clone the repository
 
----
+```bash
+git clone https://github.com/theserverboutique/discord-bot-template.git
+```
 
-## 🚧 Project Status
+Install dependencies
 
-🟢 Active Development
+```bash
+npm install
+```
 
-This repository is being expanded into a complete production-ready Discord.js starter template.
+Rename
 
----
+```text
+.env.example
+```
 
-## 🌸 About The Server Boutique
+to
 
-The Server Boutique specialises in creating premium Discord communities.
+```text
+.env
+```
 
-### Services
+Fill in your bot credentials.
 
-- 🤖 Discord Bot Development
-- 🏡 Server Design & Setup
-- 🎫 Ticket Systems
-- 🛡 Verification Systems
-- 📋 Staff Applications
-- ⚙ Community Automation
-- 🎨 Branding & Embeds
-- 📚 Community Documentation
+Start the bot
 
----
-
-## 🤝 Contributing
-
-Suggestions and improvements are always welcome.
+```bash
+npm start
+```
 
 ---
 
-## 📄 License
+## 📖 What this template includes
 
-Released under the MIT License.
+- Project entry point
+- Modular folder structure
+- Environment configuration
+- MIT licence
+- Easy starting point for new Discord bots
+
+---
+
+## 📜 Licence
+
+Released under the MIT Licence.
+
+---
+
+Built with ❤️ by **The Server Boutique**
