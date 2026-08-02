@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/discord-bot-template-banner.jpg" alt="Discord Bot Template Banner" width="100%">
+  <img src="assets/discord-bot-template-banner-github.jpg" alt="Discord Bot Template Banner" width="100%">
 </p>
 
 <div align="center">
